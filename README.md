@@ -1,16 +1,7 @@
-# ademas
-
-A new Flutter project.
+# Taxi-booking and costing 
+i am working rigth now with api after it i could add it to my project also the design right now making it by ux ui designers 
 
 ## Getting Started
+![Снимок экрана 2025-03-21 225215](https://github.com/user-attachments/assets/eb81fcb0-6d64-427d-b5cc-9d811bf3c0b2)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+it should calculate the cost of trip from pickup place to destination the user want also i make some api for my app but it is on wroking not finished i have 2 weeks for the deadline so you can see the my works with api i will add it 
